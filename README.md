@@ -1,5 +1,5 @@
-# an action practice guided by https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action#creating-a-dockerfile
-# Triggered by push action,and print out a greet word.
+### an action practice guided by https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action#creating-a-dockerfile
+### Triggered by push action,and print out a greet word.
 
 # main.yml
 redirect to the ./ directory action.yml, and pass the inputs parameter 'Mona the Octocat'.
